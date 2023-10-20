@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1697826027 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\_persona.cpp
+	<iostream>
+	<cstring>
+	"persona.h"
+
+1697825703 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\fecha.cpp
+	<iostream>
+	"fecha.h"
+
+1697825725 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\hora.cpp
+	<iostream>
+	"hora.h"
+
+1697822731 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\main.cpp
+	<iostream>
+	<cstring>
+	"paciente.h"
+	"archivoControladores.h"
+
+1697826205 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\paciente.h
+	"persona.h"
+	"turno.h"
+	"especialista.h"
+
+1697207211 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\paciente.cpp
+	"persona.h"
+	"turno.h"
+	"especialista.h"
+
+1697826032 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\persona.h
+
+1697207404 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\_persona.cpp
+
+1697825628 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\turno.h
+	"hora.h"
+	"fecha.h"
+
+1697208232 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\turno.cpp
+	"hora.h"
+	"fecha.h"
+
+1697825389 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\hora.h
+
+1697824599 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\hora.cpp
+
+1697828261 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\fecha.h
+
+1697211291 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\fecha.cpp
+
+1697825927 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\especialista.h
+
+1697085038 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\especialista.cpp
+	"turno.h"
+
+1697826248 c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\archivocontroladores.h
+
+1697825938 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\especialista.cpp
+	<iostream>
+	"especialista.h"
+
+1697826206 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\paciente.cpp
+	<iostream>
+	"paciente.h"
+
+1697826415 source:c:\users\hugo_\onedrive\documentos\programacion\c++\sistemaclinica\turno.cpp
+	<iostream>
+	"turno.h"
+
